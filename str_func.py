@@ -3,5 +3,5 @@ def str_func(line):
     return line.upper()
 
 def str_func_2(line):
-    'делает заглавными первые буквы каждого слова в строке'
+    'ДЕЛАЕТ заглавными первые буквы каждого слова в строке'
     return line.title()
